@@ -20,11 +20,9 @@ A shared-expense prototype built around the rule **Paid ≠ Consumed**. It handl
 ### Later | بعدين
 A lightweight personal backlog for things worth coming back to — tasks, ideas, places, courses, purchases, and other intentions that do not always need a deadline.
 
-### PRISM AI
-An AI Product Management Copilot concept for turning raw business requirements into clearer PRDs, user stories, acceptance criteria, open questions, and missing scenarios.
 
-### RFP Discovery Prototypes
-Guided WMS + OXM discovery experiences designed to make 3PL requirement gathering more structured, repeatable, reviewable, and exportable.
+### WMS RFP Survey
+A guided warehouse discovery prototype designed to make 3PL WMS requirement gathering more structured, repeatable, reviewable, and exportable.
 
 ## How I Approach Product Work
 My projects usually start with a real problem rather than a screen idea:
